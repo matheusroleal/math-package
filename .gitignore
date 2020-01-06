@@ -1,6 +1,3 @@
-# C compiled code
-ex
-
 # Prerequisites
 *.d
 
@@ -38,12 +35,14 @@ ex
 *.i*86
 *.x86_64
 *.hex
+ex
 
 # Debug files
 *.dSYM/
 *.su
 *.idb
 *.pdb
+*.pdf
 
 # Kernel Module Compile Results
 *.mod*
